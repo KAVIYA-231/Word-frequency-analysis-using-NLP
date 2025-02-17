@@ -1,2 +1,2 @@
 # Word-frequency-analysis-using-NLP
-this python script performs text preprocessing, word frequency analysis, and visualization of the word distributions.
+This python script performs text preprocessing, word frequency analysis, and visualization of the word distributions. It imports necessary libraries, processes a given paragraph by converting it to lowercase, removing stop words, and filtering only alphabetic words. The script the counts word frquencies using Counter and stores the data in a Pandas DtaFrame. It identifies the most frequently occuring word and visualizes the data using various plots: a bar chart, a word cloud, a pie chart, and a horizontal bar chart, providing insights into word distribution.
